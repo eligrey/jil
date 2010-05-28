@@ -4,7 +4,7 @@
 @requires json2.js OR native JSON.parse & native JSON.stringify
 @desc jData interface library to interact with a jData host through it's postMessage API
 @license Dual-licensed GNU GPL v3 and the X11/MIT license
-@author Elijah Grey - eligrey.com
+@author Eli Grey, http://eligrey.com
 */
 
 if ( typeof JSON == "undefined" ) { // load JSON if it doesn't already exist
