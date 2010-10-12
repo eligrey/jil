@@ -3,9 +3,11 @@
 @version 0.0.4
 @requires json2.js OR native JSON.parse & native JSON.stringify
 @desc jData interface library to interact with a jData host through it's postMessage API
-@license Dual-licensed GNU GPL v3 and the X11/MIT license
+@license X11/MIT
 @author Eli Grey, http://eligrey.com
 */
+
+/*! @source http://purl.eligrey.com/github/jil/blob/master/jil.js*/
 
 if ( typeof JSON == "undefined" ) { // load JSON if it doesn't already exist
 	// Apending scripts and frames to document.head due to IE8 having weird behavior with document.documentElement
