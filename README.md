@@ -32,7 +32,7 @@ jData Interface Library (JIL) is a refrence implementation of an interface libra
 *   JIL.listening:boolean - Boolean representing if JIL.handleMessage is listening for message events yet.
 
 
-![Tracking image](//in.getclicky.com/212712ns.gif =1x1)
+![Tracking image](//in.getclicky.com/212712ns.gif)
 
 
  [1]: http://code.eligrey.com/jdata/jil/demo.html
