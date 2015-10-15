@@ -3,7 +3,7 @@
 @version 0.0.4
 @requires json2.js OR native JSON.parse & native JSON.stringify
 @desc jData interface library to interact with a jData host through it's postMessage API
-@license X11/MIT
+@license MIT
 @author Eli Grey, http://eligrey.com
 */
 
